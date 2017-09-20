@@ -20,6 +20,10 @@ public class SecondaryMongoObject {
 
 	private String value;
 
+	public SecondaryMongoObject(String id, String value) {
+		this.id = id;
+		this.value = value;
+	}
 
 	@Override
 	public String toString() {

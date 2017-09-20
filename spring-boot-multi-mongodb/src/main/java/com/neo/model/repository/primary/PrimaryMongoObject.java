@@ -20,6 +20,11 @@ public class PrimaryMongoObject {
 
 	private String value;
 
+	public PrimaryMongoObject(String id, String value) {
+		this.id = id;
+		this.value = value;
+	}
+
 	@Override
 	public String toString() {
         return "PrimaryMongoObject{" + "id='" + id + '\'' + ", value='" + value + '\''
