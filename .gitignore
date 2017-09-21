@@ -42,3 +42,17 @@ spring-boot-jpa-thymeleaf-curd/target/
 spring-boot-mongodb/target/
 
 spring-boot-web/target/
+
+spring-boot-scheduler/target/
+
+spring-boot-thymeleaf/target/
+
+spring-boot-shiro/target/
+
+spring-boot-rabbitmq/target/
+
+spring-boot-package-war/target/
+
+spring-boot-mybatis-xml/target/
+
+spring-boot-mybatis-mulidatasource/target/
