@@ -37,6 +37,7 @@ public class UserController {
     @RequestMapping(value="update")
     public void update(UserEntity user) {
     	userMapper.update(user);
+    	System.out.println("hello !");
     }
     
     @RequestMapping(value="/delete/{id}")
