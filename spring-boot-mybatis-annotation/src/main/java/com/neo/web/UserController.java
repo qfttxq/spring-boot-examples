@@ -25,7 +25,7 @@ public class UserController {
     @RequestMapping("/getUser")
     public UserEntity getUser(Long id) {
     	UserEntity user=userMapper.getOne(id);
-    	System.out.println(1111);
+    	System.out.println("测试");
         return user;
     }
     
