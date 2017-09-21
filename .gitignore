@@ -40,3 +40,5 @@ spring-boot-helloWorld/target/
 spring-boot-jpa-thymeleaf-curd/target/
 
 spring-boot-mongodb/target/
+
+spring-boot-web/target/
